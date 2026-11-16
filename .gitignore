@@ -1,0 +1,20 @@
+# Generated at runtime — not source
+logs/
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets / local env
+.env
+*.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
